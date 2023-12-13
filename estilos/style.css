@@ -58,6 +58,7 @@ div#formulario > h1{
 }
 div#formulario > p{
     font-size: 0.8em;
+    margin: 10px 10px;
 }
 form >div.campo{
     background-color: #5f2c82;
